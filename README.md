@@ -1,4 +1,4 @@
-# Wroomba32
+# Wroombii
 
 Adapted from : https://github.com/cybrox/wroomba
 
